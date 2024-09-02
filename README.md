@@ -38,11 +38,11 @@ Create a resource group and VM on Azure, then remote connect in.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Lab image 2](https://github.com/user-attachments/assets/55e2c76b-a50a-4840-a530-bd5f86e7152e)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Extracting files to PHP directory and configuring Window's features
 </p>
 <br />
 
