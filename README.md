@@ -12,7 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -23,10 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Setup Azure, create resource group and VM, remote connect.
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable Windows CGI and install IIS.
+- Install more programs so osTicket may run.
+- Install HeidiSQL database for osTicket.
+- Enter info into osTicket website and log in.
 
 <h2>Installation Steps</h2>
 
